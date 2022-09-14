@@ -15,5 +15,6 @@ public class GitTest {
         System.out.println("冲突合并的master分支的代码!!!!!!!!!!");
         System.out.println("合并冲突hot-fix修改的代码!!!!!!!!!!!!!!!!!");
         System.out.println("push 的代码!!!!!!!!!!!!!!!!!");
+        System.out.println(">>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>可以被pull的代码>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>");
     }
 }
